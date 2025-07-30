@@ -6,9 +6,16 @@
 ---
 
 ### 🛠️ Tech Stack
-- 💻 **Languages:** C#, Kotlin, PHP  
-- 🐳 **Tools:** Docker, Git  
-- 🗃️ **Databases:** SQL Server, MySQL  
+
+![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<br>
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<br>
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -22,4 +29,6 @@
 
 ---
 
-![Pac-Man playing](https://tenor.com/view/pacman-pac-man-gif-25350247)
+### 🎮 Just for fun!
+
+![Pac-Man](https://media.giphy.com/media/TPl5NnCDOwZ3W/giphy.gif)
