@@ -31,4 +31,5 @@
 
 ### 🎮 Just for fun!
 
-![Pac-Man](https://media.giphy.com/media/TPl5NnCDOwZ3W/giphy.gif)
+![Pac-Man](https://media.tenor.com/fSsxftCb8w0AAAAi/pacman-game.gif)
+
