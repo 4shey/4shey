@@ -22,4 +22,4 @@
 
 ---
 
-![Pac-Man playing](https://media.giphy.com/media/TPl5NnCDOwZ3W/giphy.gif)
+![Pac-Man playing](https://tenor.com/view/pacman-pac-man-gif-25350247)
