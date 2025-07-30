@@ -26,10 +26,3 @@
 
 ### 📫 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tholi-ul-asbah-142955377/)
-
----
-
-### 🎮 Just for fun!
-
-![Pac-Man](https://media.tenor.com/fSsxftCb8w0AAAAi/pacman-game.gif)
-
