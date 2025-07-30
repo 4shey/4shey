@@ -19,3 +19,7 @@
 
 ### 📫 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tholi-ul-asbah-142955377/)
+
+---
+
+![Pac-Man playing](https://media.giphy.com/media/TPl5NnCDOwZ3W/giphy.gif)
