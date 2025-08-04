@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm 4shey!
 
-🚀 I'm a multi-platform developer with experience in desktop and Android apps.  
-🌐 Currently focusing on web development using modern technologies like Laravel and .NET.
+🚀 I'm a multi-platform developer with experience in desktop and Android apps.
 
 ---
 
