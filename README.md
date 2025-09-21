@@ -1,6 +1,8 @@
 <!-- Modern GitHub Profile README -->
+<marquee behavior="alternate" scrollamount="6">
+  🚀 Welcome to my GitHub profile! | 💻 Coding | 🎨 Design | ☕ Coffee
+</marquee>
 
-<h1 align="center">Haloo</h1>
 
 <p align="center">
   <!-- Anime GIF no background -->
