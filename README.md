@@ -1,6 +1,6 @@
 <!-- Modern GitHub Profile README -->
 
-<h1 align="center">Hey 👋, I'm Vlda</h1>
+<h1 align="center">Haloo</h1>
 
 <p align="center">
   <!-- Anime GIF no background -->
