@@ -1,8 +1,6 @@
-<!-- Modern GitHub Profile README -->
-<marquee behavior="alternate" scrollamount="6">
-  🚀 Welcome to my GitHub profile! | 💻 Coding | 🎨 Design | ☕ Coffee
-</marquee>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CBF718&width=435&lines=Hello+hello;I'm+a+beginner+here)](https://git.io/typing-svg)
 
+---
 
 <p align="center">
   <!-- Anime GIF no background -->
