@@ -35,3 +35,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=4shey&style=for-the-badge&color=ff69b4" alt="profile views"/>
 </p>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4shey/4shey/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4shey/4shey/output/pacman-contribution-graph.svg">
+  <img alt="pacman graph" src="https://raw.githubusercontent.com/4shey/4shey/output/pacman-contribution-graph.svg">
+</picture>
