@@ -1,45 +1,38 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=CBF718&center=true&vCenter=true&multiline=true&width=300&height=60&lines=Hello+hello;I'm+a+beginner+here" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=CBF718&center=true&vCenter=true&multiline=true&width=400&height=70&lines=Hello+hello+👋;I'm+4shey;Welcome+to+my+profile" />
 </p>
 
 ---
 
-### Tech Stack
+<h3 align="center">⚡ Tech Stack ⚡</h3>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="50"/>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,cs,dart,html,css,js,kotlin,php,react,laravel,flutter,dotnet,godot" />
+</p>
 
 ---
 
-### GitHub Stats
+<h3 align="center">📊 GitHub Stats 📊</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=4shey&theme=radical&hide_border=true&border_radius=15" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=4shey&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4shey&layout=compact&theme=radical&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=4shey&style=for-the-badge&color=ff69b4" alt="profile views"/>
+  <img src="https://streak-stats.demolab.com?user=4shey&theme=radical&hide_border=true" height="160"/>
 </p>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4shey/4shey/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4shey/4shey/output/pacman-contribution-graph.svg">
-  <img alt="pacman graph" src="https://raw.githubusercontent.com/4shey/4shey/output/pacman-contribution-graph.svg">
-</picture>
+<h3 align="center">🎮 Contribution Game 🎮</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/4shey/4shey/output/pacman-contribution-graph.svg"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=4shey&style=for-the-badge&color=ff69b4"/>
+</p>
