@@ -15,17 +15,8 @@
 <h3 align="center">my github stats</h3>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=4shey&show_icons=true&theme=radical&hide_border=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=4shey&show_icons=true&theme=default&hide_border=true"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=4shey&show_icons=true&hide_border=true"/>
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=4shey&layout=compact&theme=radical&hide_border=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=4shey&layout=compact&theme=default&hide_border=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4shey&layout=compact&hide_border=true"/>
-  </picture>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=4shey&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=4shey&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
