@@ -7,7 +7,7 @@
 <h3 align="center">tech i use</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,cs,dart,html,css,js,kotlin,php,react,laravel,flutter,dotnet,godot" />
+  <img src="https://skillicons.dev/icons?i=go,cs,dart,tailwind,js,kotlin,php,react,laravel,flutter,dotnet,godot" />
 </p>
 
 ---
